@@ -2,7 +2,7 @@
 
 Hello, </br> Azerty-Labs is an independent sound research laboratory based in France (Brest), focused on artificial intelligence and Eurorack module design. </br>
 
-To you,</br>
+Ty,</br>
 @Azerty_Labs
 
 
