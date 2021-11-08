@@ -8,8 +8,7 @@ Here is a list of my interests and research areas:
 - Eurorack module design 
 - Internet of Things
 
-Ty,</br>
-@Azerty_Labs
+Ty,</br> @Azerty_Labs
 
 
 #### Social Networks
